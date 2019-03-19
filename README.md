@@ -16,10 +16,6 @@ Below is a list of several additional files outside of the full documentation th
      ├── android_app (directory)
           ├── app-release.apk                      # Android app (created from Flutter)
 
-### Video Reference
-
-https://www.youtube.com/watch?v=G5RgEPvHNNo&feature=youtu.be
-
 
 ### Team Members
 
